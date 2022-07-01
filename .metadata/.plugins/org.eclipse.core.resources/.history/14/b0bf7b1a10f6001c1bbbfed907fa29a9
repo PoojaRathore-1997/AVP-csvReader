@@ -1,0 +1,28 @@
+package com.csvReader;
+
+import java.util.Vector;
+
+public class VectorExperiment {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Vector<String> integerVector = new Vector<String>();
+		integerVector.add("220");
+		integerVector.add("221");
+		integerVector.add("222");
+		integerVector.add("223");
+		integerVector.add("224");
+		integerVector.add("225");
+		integerVector.add("226");
+		
+		for(int i=0; i<integerVector.size(); i++)
+		{
+			String s = integerVector.get(i);
+			s = s.substring(0, s.length() - 2);
+			integerVector.set(i, s);
+			
+		}
+		System.out.println(integerVector);
+	}
+
+}

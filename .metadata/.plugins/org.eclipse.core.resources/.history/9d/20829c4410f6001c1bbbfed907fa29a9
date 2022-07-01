@@ -1,0 +1,26 @@
+package com.csvReader;
+
+import java.util.Vector;
+
+public class VectorExperiment {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Vector<String> integerVector = new Vector<String>();
+		integerVector.add(data[15]);
+		integerVector.add(data[16]);
+		integerVector.add(data[17]);
+		integerVector.add(data[18]);
+		integerVector.add(data[19]);
+		integerVector.add(data[20]);
+		integerVector.add(data[33]);
+		
+		for(int i=0; i<integerVector.size(); i++)
+		{
+			String s = integerVector.get(i);
+			s = s.substring(0, s.length() - 2);
+			integerVector.set(i, s);
+			
+		}
+	}
+}

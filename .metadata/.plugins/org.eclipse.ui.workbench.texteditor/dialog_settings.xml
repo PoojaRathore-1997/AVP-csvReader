@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="Save"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="save"/>
+			<item value="indexOfIntegerRow"/>
+			<item value="data"/>
+			<item value="random"/>
+			<item value="/html/body/div[8]/div/div[2]/div/div/div/div/div/form/div[1]/div/div/a/div/span/ul/li[5]]"/>
+			<item value="Pool"/>
+			<item value="pool"/>
+			<item value="total number"/>
+			<item value="this.faker"/>
+			<item value="faker"/>
+			<item value="pools"/>
+			<item value="Early bird"/>
+			<item value="number of set"/>
+			<item value="scroll"/>
+			<item value="team listen"/>
+		</list>
+		<list key="replacehistory">
+			<item value="integerVector"/>
+			<item value="faker"/>
+			<item value="this.faker"/>
+			<item value="//"/>
+			<item value="Thread.sleep(4000);"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="344"/>
+		<item key="DIALOG_Y_ORIGIN" value="315"/>
+		<item key="DIALOG_WIDTH" value="511"/>
+		<item key="DIALOG_HEIGHT" value="523"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>
